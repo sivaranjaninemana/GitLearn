@@ -2,6 +2,7 @@ This is added in personal branch
 Change after merging to master
 My new word from master
 Just to learn git diff
+Oh I can't see git diff
 
 
 
